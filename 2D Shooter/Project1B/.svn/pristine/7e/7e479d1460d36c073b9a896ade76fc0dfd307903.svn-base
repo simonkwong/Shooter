@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type ="MathExercise1.BulletData">
+      <spriteName>sonar</spriteName>
+      <animWidth>25</animWidth>
+      <bulletSpeed>200</bulletSpeed>
+      <shotCooldown>2.0</shotCooldown>
+      <centered>true</centered>
+  </Asset>
+</XnaContent>
+

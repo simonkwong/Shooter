@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="MathExercise1.ShipData">
+    <spriteName>Ufo2</spriteName>
+    <center>0 0</center>
+    <facing>-1 0</facing>
+    <maxSpeed>200</maxSpeed>
+    <acceleration>100</acceleration>
+    <rotationSpeed>0</rotationSpeed>
+    <bulletSpeed>400</bulletSpeed>
+    <shotCooldown>1</shotCooldown>
+    <gunPositions Type ="Microsoft.Xna.Framework.Vector2[]">
+      52 16 52 -16 <!-- The first 2 entries in this list form the first Vector2
+                      The second 2 entries forom the second Vector2, etc -->
+    </gunPositions>
+  </Asset>
+</XnaContent>

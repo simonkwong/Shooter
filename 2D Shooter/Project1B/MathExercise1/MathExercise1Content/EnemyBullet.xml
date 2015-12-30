@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type ="MathExercise1.AnimData[]">
+    <Item>
+      <spriteName>bullet1</spriteName>
+      <animWidth>10</animWidth>
+      <centered>true</centered>
+    </Item>
+  </Asset>
+</XnaContent>
+

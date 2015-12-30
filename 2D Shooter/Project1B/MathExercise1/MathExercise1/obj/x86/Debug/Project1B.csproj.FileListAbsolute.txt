@@ -1,0 +1,74 @@
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerShip.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerBullet.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\EnemyShip1.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\EnemyBullet.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\ExplosionEffect.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerSonar.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerMissile.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerRocket.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\EnemyShip2.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpFire.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpHeal.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpPower.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpShield.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\background.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Ufo1.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Ufo2.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Ship1.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\bullet1.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\laser.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Explosion.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\missile.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\rocket.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\sonar.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUFire.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUHeal.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUPower.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUShield.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\ScoreFont.xnb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\MathExercise1.exe
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\MathExercise1.pdb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\MathExercise1.exe
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\MathExercise1.pdb
+C:\Users\Simon\Downloads\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\Project1B.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerShip.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerBullet.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\EnemyShip1.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\EnemyBullet.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\ExplosionEffect.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerSonar.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerMissile.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PlayerRocket.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\EnemyShip2.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpFire.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpHeal.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpPower.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PowerUpShield.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\background.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Ufo1.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Ufo2.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Ship1.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\bullet1.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\laser.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\Explosion.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\missile.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\rocket.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\sonar.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUFire.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUHeal.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUPower.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\PUShield.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\Content\ScoreFont.xnb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\MathExercise1.exe
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\MathExercise1.pdb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\bin\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\Project1B.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\MathExercise1.exe
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\MathExercise1\MathExercise1\obj\x86\Debug\MathExercise1.pdb

@@ -1,0 +1,36 @@
+c:\users\galles\documents\visual studio 2010\Projects\MathExercise1\DataFiles\bin\x86\Debug\DataFiles.dll
+c:\users\galles\documents\visual studio 2010\Projects\MathExercise1\DataFiles\bin\x86\Debug\DataFiles.pdb
+c:\users\galles\documents\visual studio 2010\Projects\MathExercise1\DataFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\galles\documents\visual studio 2010\Projects\MathExercise1\DataFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\galles\documents\visual studio 2010\Projects\MathExercise1\DataFiles\obj\x86\Debug\DataFiles.dll
+c:\users\galles\documents\visual studio 2010\Projects\MathExercise1\DataFiles\obj\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\MathExercise1Sol\DataFiles\bin\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\MathExercise1Sol\DataFiles\bin\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\MathExercise1Sol\DataFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Simon\Downloads\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.pdb
+G:\MathExercise1Sol\DataFiles\bin\x86\Debug\DataFiles.dll
+G:\MathExercise1Sol\DataFiles\bin\x86\Debug\DataFiles.pdb
+G:\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.csprojResolveAssemblyReference.cache
+G:\MathExercise1Sol\DataFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.dll
+G:\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Desktop\MathExercise1Sol\DataFiles\bin\x86\Debug\DataFiles.dll
+C:\Users\Simon\Desktop\MathExercise1Sol\DataFiles\bin\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Desktop\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\MathExercise1Sol\DataFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Simon\Desktop\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.dll
+C:\Users\Simon\Desktop\MathExercise1Sol\DataFiles\obj\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\Project1B\DataFiles\bin\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\Project1B\DataFiles\bin\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\Project1B\DataFiles\obj\x86\Debug\DataFiles.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\Project1B\DataFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Simon\Downloads\Project1B\DataFiles\obj\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\Project1B\DataFiles\obj\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\DataFiles\bin\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\DataFiles\bin\x86\Debug\DataFiles.pdb
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\DataFiles\obj\x86\Debug\DataFiles.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\DataFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\DataFiles\obj\x86\Debug\DataFiles.dll
+C:\Users\Simon\Downloads\GAME ENGINEERING\GAME\Project1B\DataFiles\obj\x86\Debug\DataFiles.pdb

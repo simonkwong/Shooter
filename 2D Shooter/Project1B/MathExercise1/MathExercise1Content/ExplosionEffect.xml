@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type ="MathExercise1.AnimData">
+      <spriteName>Explosion</spriteName>
+      <animWidth>50</animWidth>
+      <centered>true</centered>
+  </Asset>
+</XnaContent>
